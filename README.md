@@ -1,2 +1,4 @@
-# P1_Komnum_D1
-Kelompok 1, KomNum D
+# Anggota Kelompok
+1. I Gusti Ngurah Ervan Juli Ardana (5025211205)
+2. I Gusti Ngurah Agung Adhi Sanjaya
+3. Rayhan Almer Kusumah

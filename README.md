@@ -20,7 +20,14 @@ Maupun Sebaliknya:
 >`f(x2) > 0`\
 `f(x1) < 0`
 
-Intinya kedua variabel tersebut jika f(x) nya dikalikan maka harus menghasilkan bilangan negatif. jika tidak maka kita harus mencoba kedua variabel yang baru
+Intinya kedua variabel tersebut jika f(x) nya dikalikan maka harus menghasilkan bilangan negatif. jika tidak maka kita harus mencoba kedua variabel yang baru. Kemudian kita harus mencari variabel xTengah dengan rumus:
+
+>`xTengah = (x1 + x2)/2`
+
+Kemudian xTengah harus menggantikan x1 atau x2 di iterasi selanjutnya dengan syarat:
+
+> jika `f(XTengah) * f(X1) > 0`, maka `X1 = X3`\
+jika `f(X3) * f(X2) < 0`, maka `X2 = X3`
 
 ---
 ### Implementasi Metode Bolzano dengan Python

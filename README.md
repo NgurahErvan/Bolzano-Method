@@ -29,5 +29,7 @@ Kemudian xTengah harus menggantikan x1 atau x2 di iterasi selanjutnya dengan sya
 > jika `f(XTengah) * f(X1) > 0`, maka `X1 = X3`\
 jika `f(X3) * f(X2) < 0`, maka `X2 = X3`
 
+diatas merupakan proses 1 iterasi. lakukan iterasi tersebut berulang ulang hingga `f(Xtengah)` mendekati `0` 
+
 ---
 ### Implementasi Metode Bolzano dengan Python

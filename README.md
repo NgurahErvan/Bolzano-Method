@@ -12,3 +12,6 @@
 
 ### Metode Bolzano
 Metode Bolzano merupakansalah satu metode yang digunakan untuk mencari akar-akar persamaan nonlinier melalui proses iterasi
+
+---
+### Implementasi Metode Bolzano dengan Python

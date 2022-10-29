@@ -26,10 +26,12 @@ Intinya kedua variabel tersebut jika f(x) nya dikalikan maka harus menghasilkan 
 
 Kemudian xTengah harus menggantikan x1 atau x2 di iterasi selanjutnya dengan syarat:
 
-> jika `f(XTengah) * f(X1) > 0`, maka `X1 = X3`\
-jika `f(X3) * f(X2) < 0`, maka `X2 = X3`
+> jika `f(XTengah) * f(X1) > 0`, maka `X1 = XTengah`\
+jika `f(X3) * f(X2) < 0`, maka `X2 = XTengah`
 
 diatas merupakan proses 1 iterasi. lakukan iterasi tersebut berulang ulang hingga `f(Xtengah)` mendekati `0` 
 
 ---
 ### Implementasi Metode Bolzano dengan Python
+
+![metodeBolzano](https://drive.google.com/file/d/1mNIEWVUaF8vtaxIytQFXKwJmSVjR5HcM/view?usp=sharing)

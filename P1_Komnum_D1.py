@@ -59,6 +59,3 @@ Graph()
 
 #sourceCode:
 # https://www.codesansar.com/numerical-methods/bisection-method-python-program.htm
-
-#sourceCode:
-# https://www.codesansar.com/numerical-methods/bisection-method-python-program.htm

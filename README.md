@@ -5,13 +5,13 @@
 
 ## Anggota Kelompok
 1. I Gusti Ngurah Ervan Juli Ardana (5025211205)
-2. I Gusti Ngurah Agung Adhi Sanjaya
-3. Rayhan Almer Kusumah
+2. I Gusti Agung Ngurah Adhi Sanjaya (5025211056)
+3. Rayhan Almer Kusumah (5025211115)
 
 ---
 
 ### Metode Bolzano
-Metode Bolzano merupakansalah satu metode yang digunakan untuk mencari akar-akar persamaan nonlinier melalui proses iterasi
+Metode Bolzano merupakan salah satu metode yang sering digunakan untuk mencari akar-akar persamaan nonlinier melalui beberapa proses iterasi. Kita memerlukan dua buah variabel yang bernama >x1 dan >x2
 
 ---
 ### Implementasi Metode Bolzano dengan Python

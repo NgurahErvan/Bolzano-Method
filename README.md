@@ -36,3 +36,8 @@ diatas merupakan proses 1 iterasi. lakukan iterasi tersebut berulang ulang hingg
 Berikut merupakan implementasi Metode Bolzano dengan bahasa Phyton
 
 ![bolzanomethod](https://user-images.githubusercontent.com/114007640/198838613-cefe2431-1191-4a58-9baf-4b7fe408408f.png)
+
+Output yang akan dikeluarkan jika menggunakan fungsi `x**3 +x**2 - 3 *x -3` dan `x1 = 1 ` dan `x2 = 2`  yaitu:
+
+![Output](https://user-images.githubusercontent.com/114007640/198838883-1f7f5ea7-957e-4b6c-a087-f0a9f4889906.png)
+

@@ -21,5 +21,6 @@ Maupun Sebaliknya:
 `f(x1) < 0`
 
 Intinya kedua variabel tersebut jika f(x) nya dikalikan maka harus menghasilkan bilangan negatif. jika tidak maka kita harus mencoba kedua variabel yang baru
+
 ---
 ### Implementasi Metode Bolzano dengan Python

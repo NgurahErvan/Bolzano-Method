@@ -12,10 +12,11 @@
 
 ### Metode Bolzano
 Metode Bolzano merupakan salah satu metode yang sering digunakan untuk mencari akar-akar persamaan nonlinier melalui beberapa proses iterasi. Kita memerlukan dua buah variabel yang bernama `x1` dan `x2`. kedua variabel tersebut harus:
-
-`f(x1) > 0
-f(x2) < 0
-`
+`f(x1) > 0`
+`f(x2) < 0`
+Maupun Sebaliknya:
+`f(x2) > 0`
+`f(x1) < 0`
 
 ---
 ### Implementasi Metode Bolzano dengan Python

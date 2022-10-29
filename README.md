@@ -41,3 +41,6 @@ Output yang akan dikeluarkan jika menggunakan fungsi `x**3 +x**2 - 3 *x -3` dan 
 
 ![Output](https://user-images.githubusercontent.com/114007640/198838883-1f7f5ea7-957e-4b6c-a087-f0a9f4889906.png)
 
+![Figure_1](https://user-images.githubusercontent.com/114007640/198838983-bc727485-0d6b-4c69-9631-17be57333eab.png)
+
+

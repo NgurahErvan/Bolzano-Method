@@ -33,5 +33,6 @@ diatas merupakan proses 1 iterasi. lakukan iterasi tersebut berulang ulang hingg
 
 ---
 ### Implementasi Metode Bolzano dengan Python
+Berikut merupakan implementasi Metode Bolzano dengan bahasa Phyton
 
-![bolzanomethod](https://user-images.githubusercontent.com/114007640/198838613-cefe2431-1191-4a58-9baf-4b7fe408408f.png))
+![bolzanomethod](https://user-images.githubusercontent.com/114007640/198838613-cefe2431-1191-4a58-9baf-4b7fe408408f.png)

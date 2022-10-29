@@ -21,7 +21,7 @@ def bolzano(x1, x2, e):
             x1 = xTengah
 
         iterasi += 1
-        #untuk mengetahui
+        
         statement = abs(f(xTengah)) > e
 
     # print("\nRequired Root is : %0.8f" % x2)
@@ -56,6 +56,9 @@ def Graph():
     plt.legend()
     plt.show()
 Graph()
+
+#sourceCode:
+# https://www.codesansar.com/numerical-methods/bisection-method-python-program.htm
 
 #sourceCode:
 # https://www.codesansar.com/numerical-methods/bisection-method-python-program.htm
